@@ -3,7 +3,7 @@ Python Homework/CodeWars
 
 Как начать работать с доской:
 
-#1 Принять приглашение, полученное на email.
+#1 Принять приглашение, полученное на email
 #2 Привязать доску к своему Github аккаунту:
 #3 Home >> Repositories >> Ksenija-grp-ptstrs-sqd/grp-ptstrs-sqd >>
 #4 Projects >> Link a project >> Python Homework/CodeWars >> Submit
