@@ -4,7 +4,7 @@ Python Homework/CodeWars
 Как начать работать с доской:
 
 #1 Создать аккаунт на GitHub (если уже есть аккаунт см. #2).
-#2 Прислать тимлиду email или username или full name своего GitHub аккаунта.
+#2 Прислать тимлиду email или username, или full name своего GitHub аккаунта.
 #3 Принять приглашение, полученное на email.
 #4 Привязать доску к своему Github аккаунту:
 Home >> Repositories >> Ksenija-grp-ptstrs-sqd/grp-ptstrs-sqd >>
